@@ -1,37 +1,39 @@
-# client-chavira-revista
+# Chavira Revista
 
-Proyecto web/editorial desarrollado para un cliente.
+<div align="center">
 
-## Categoría
+![Client](https://img.shields.io/badge/Tipo-Cliente-111827?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Editorial](https://img.shields.io/badge/Proyecto-Editorial-7c3aed?style=for-the-badge)
 
-`client-` — proyecto profesional o de cliente.
+**Proyecto web para cliente orientado a revista y catalogo editorial.**
 
-## Descripción
+</div>
 
-Repositorio orientado a funcionalidades de publicación, consulta o administración de contenido tipo revista/catálogo/editorial.
+---
+
+## Contexto Profesional
+
+Repositorio orientado a funcionalidades de publicacion, consulta o administracion de contenido tipo revista, catalogo o proyecto editorial.
 
 ## Rol
 
-Desarrollo de software, implementación de funcionalidades y organización de módulos según necesidades del proyecto.
+Desarrollo de software, implementacion de funcionalidades y organizacion de modulos segun necesidades del proyecto.
 
-## Tecnologías
+## Tecnologias
 
-- Laravel
-- PHP
-- Base de datos relacional
-- Frontend web
+![Laravel](https://img.shields.io/badge/Laravel-dc2626?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white)
+![Web](https://img.shields.io/badge/Web-2563eb?style=flat-square)
+![Editorial](https://img.shields.io/badge/Editorial-16a34a?style=flat-square)
 
-## Alcance general
+## Alcance General
 
 - Interfaz web.
-- Gestión o visualización de contenido.
-- Organización de información.
+- Gestion o visualizacion de contenido.
+- Organizacion de informacion.
 - Ajustes funcionales y visuales.
 
 ## Privacidad
 
-Revisar contenido, imágenes, datos internos y permisos antes de publicar o compartir.
-
-## Nota para portafolio
-
-Puede mencionarse como experiencia en desarrollo web para gestión y presentación de contenido.
+Revisar contenido, imagenes, datos internos y permisos antes de publicar o compartir.
